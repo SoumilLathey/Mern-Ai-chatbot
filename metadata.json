@@ -1,0 +1,5 @@
+{
+  "name": "Copy of MERN AI Chatbot Interface",
+  "description": "A sophisticated React-based chat interface designed to connect with a provider-agnostic AI backend. It features real-time message streaming, conversation history, context management, and provider/model selection, all wrapped in a sleek and modern UI.",
+  "requestFramePermissions": []
+}
